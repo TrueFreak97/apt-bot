@@ -66,7 +66,7 @@ async function fetchListings() {
           range: { min: 500, max: 6200 }
         }],
         houseSpecs: {
-          area: { range: { min: 50, max: 1000 } },
+          area: { range: { min: 40, max: 1000 } },
           isFurnished: true,
           nearSubway: true,
           bathrooms: { range: {} },
