@@ -54,10 +54,10 @@ async function fetchListings() {
         location: {
           coordinate: { lat: -22.906847, lng: -43.172897 },
           viewport: {
-            east: -43.13204159228517,
-            north: -22.85607971026812,
-            south: -23.07830275936493,
-            west: -43.287223477050794
+            east: -43.13770641772462,
+            north: -22.864779503010656,
+            south: -23.062035673994952,
+            west: -43.28979839770509
           },
           countryCode: "BR"
         },
